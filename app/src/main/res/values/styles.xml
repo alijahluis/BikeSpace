@@ -1,0 +1,23 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="AppTheme.Base">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primaryDark</item>
+        <item name="colorAccent">@color/background_material_light</item>
+        <item name="android:colorBackground">@color/dark_grey</item>
+        <item name="android:statusBarColor">@color/status_bar</item>
+    </style>
+
+    <style name="AppTheme.Base" parent="Theme.AppCompat.NoActionBar" />
+
+    <style name="FAB">
+        <item name="android:layout_margin">20dp</item>
+        <item name="fabSize">normal</item>
+        <item name="backgroundTint">@color/primary</item>
+    </style>
+
+    <style name="HintText">
+        <item name="android:textSize">0dp</item>
+    </style>
+</resources>

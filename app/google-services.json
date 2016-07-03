@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "649490853963",
+    "firebase_url": "https://bikespace-49fbc.firebaseio.com",
+    "project_id": "bikespace-49fbc",
+    "storage_bucket": "bikespace-49fbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649490853963:android:3c1efb712af75f2c",
+        "android_client_info": {
+          "package_name": "com.capstone.bikespace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649490853963-af7seijk4111vfpf7er0l18bmm6h4uli.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjJcR8psfhFTY0K6jUKPAFhbOrBqy6h0I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

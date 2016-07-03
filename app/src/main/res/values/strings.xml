@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BikeSpace</string>
+    <string name="pager_title_feed">Activity</string>
+    <string name="pager_title_map">Map</string>
+    <string name="pager_title_me">Me</string>
+
+    <string name="positive_button_create">Add Activity</string>
+    <string name="activity_name">Activity Name</string>
+    <string name="activity_description">Activity Description</string>
+</resources>

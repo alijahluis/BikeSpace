@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:icon="@drawable/ic_shopping_cart"
+        android:id = "@+id/shopping_cart"
+        app:showAsAction="ifRoom"
+        android:title="Shop"
+        android:orderInCategory="1"/>
+
+    <item
+        android:icon="@drawable/ic_settings"
+        android:id="@+id/settings"
+        app:showAsAction="ifRoom"
+        android:title="Settings"
+        android:orderInCategory="2"/>
+</menu>
